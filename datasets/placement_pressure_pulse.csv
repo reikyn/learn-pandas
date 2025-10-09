@@ -1,0 +1,51 @@
+Student_ID,Branch,Confidence_Level,Applications_Sent,Interview_Calls,Sleep_Hours,Anxiety_Level,Motivation_Level,Support_System,Placement_Status
+STU001,E&TC,4,21,2,7.9,6,4,No,Not Placed
+STU002,E&TC,7,49,3,7.4,7,8,Yes,Still Preparing
+STU003,Statistics,8,57,6,5.9,7,9,Yes,Not Placed
+STU004,Mechanical,3,35,10,4.3,5,3,Yes,Still Preparing
+STU005,CSE,6,58,9,4.1,8,8,Yes,Still Preparing
+STU006,Mechanical,10,18,5,6.6,7,9,Yes,Placed
+STU007,IT,4,45,0,4.8,8,10,Yes,Not Placed
+STU008,Mechanical,9,47,4,7.7,7,10,No,Not Placed
+STU009,E&TC,8,46,10,5.2,9,4,Yes,Placed
+STU010,Mechanical,4,25,0,7.9,5,5,Yes,Still Preparing
+STU011,E&TC,6,43,5,6.8,9,8,No,Placed
+STU012,Statistics,8,18,9,6.5,8,9,No,Placed
+STU013,E&TC,5,26,5,4.7,7,8,No,Not Placed
+STU014,IT,8,44,2,6.8,6,5,Yes,Placed
+STU015,IT,8,7,3,7.6,4,9,Yes,Still Preparing
+STU016,Mechanical,7,15,7,7.6,6,5,No,Not Placed
+STU017,Statistics,4,13,7,7.7,7,4,No,Still Preparing
+STU018,CSE,6,14,1,6.0,7,7,No,Still Preparing
+STU019,Statistics,8,9,2,7.0,4,3,No,Placed
+STU020,Data Analytics,3,28,7,4.1,8,5,Yes,Still Preparing
+STU021,Mechanical,9,56,8,5.3,6,9,Yes,Placed
+STU022,IT,7,11,0,4.5,5,9,No,Still Preparing
+STU023,E&TC,9,8,7,5.9,4,10,No,Placed
+STU024,IT,7,42,9,6.1,9,10,No,Placed
+STU025,Statistics,8,32,4,7.9,4,7,Yes,Placed
+STU026,CSE,4,52,1,7.1,6,10,No,Placed
+STU027,Data Analytics,10,47,8,7.4,4,8,No,Still Preparing
+STU028,CSE,10,7,3,7.2,4,7,No,Not Placed
+STU029,Statistics,10,45,10,6.8,10,5,Yes,Still Preparing
+STU030,Mechanical,7,29,10,6.9,6,10,No,Not Placed
+STU031,Data Analytics,3,17,9,6.8,8,3,Yes,Still Preparing
+STU032,IT,10,26,0,5.0,8,3,Yes,Not Placed
+STU033,Data Analytics,6,57,8,4.8,9,6,Yes,Placed
+STU034,Statistics,10,6,4,5.6,9,8,Yes,Not Placed
+STU035,CSE,9,16,2,5.9,7,7,Yes,Not Placed
+STU036,Data Analytics,7,23,1,7.5,8,5,Yes,Still Preparing
+STU037,E&TC,5,14,8,4.5,5,10,No,Still Preparing
+STU038,CSE,6,43,8,5.6,6,8,Yes,Still Preparing
+STU039,Data Analytics,5,44,10,6.1,10,9,Yes,Not Placed
+STU040,Statistics,9,35,7,7.6,5,5,No,Still Preparing
+STU041,Statistics,7,24,3,5.2,10,5,Yes,Not Placed
+STU042,Statistics,10,20,0,5.9,8,10,Yes,Still Preparing
+STU043,Data Analytics,5,9,3,6.1,9,6,No,Still Preparing
+STU044,Data Analytics,6,13,0,5.7,6,5,No,Placed
+STU045,IT,10,44,4,4.4,7,8,No,Still Preparing
+STU046,Mechanical,5,6,4,4.7,4,3,No,Still Preparing
+STU047,Data Analytics,9,25,3,6.7,10,6,No,Still Preparing
+STU048,E&TC,10,19,6,7.1,10,10,Yes,Not Placed
+STU049,Data Analytics,5,46,6,6.3,5,9,No,Still Preparing
+STU050,IT,5,26,2,4.9,10,3,Yes,Placed
