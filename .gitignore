@@ -7,4 +7,7 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
+
+# Jupyter Lap backup files
+.ipynb_checkpoints/
